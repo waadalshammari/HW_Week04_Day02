@@ -1,4 +1,4 @@
-# HW_Week04_Day01
+# HW_Week04_Day02
 The Home Work has to be delievered before 9AM ⚠️
 # What you'll build 📋
 ## A polished Affirmations app that uses a `RecyclerView` to display a list of cards. Each card contains an image and affirmation text.
